@@ -1624,7 +1624,7 @@
 	}
 
 	strong, b {
-		font-weight: 300;
+		font-weight: 400;
 		color: #666;
 	}
 
@@ -1904,7 +1904,7 @@
 		color: #fff !important;
 		text-decoration: none;
 		padding: 0.75em 2.5em 0.75em 2.5em;
-		background-color: #8ebebc;
+		background-color: #69c2fa;
 		border: 0;
 		cursor: pointer;
 		background-image: -moz-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.15)), url("images/overlay.png");
@@ -1922,7 +1922,7 @@
 		input[type="reset"]:hover,
 		button:hover,
 		.button:hover {
-			background-color: #9ececc;
+			background-color: #33a4eb;
 		}
 
 		input[type="button"]:active,
